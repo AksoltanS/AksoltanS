@@ -1,4 +1,6 @@
-## Hi there 👋
+M.Sc. Economics student at the University of Bonn.
+Interested in data analysis and statistical modelling.
+Tools: Python | Excel | Power BI | SQL
 
 <!--
 **AksoltanS/AksoltanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
